@@ -17,5 +17,5 @@ Projeto utilizando as seguintes ferramentas, libs e técnicas :
 - Css Grid
 - moment
 
-Projeto feito para o processo seletivo para a empresa 123milhas
+Projeto feito para o processo seletivo para a empresa 123milhas e não teve foco em mobile.
 desenvolvido entre 19/10 e 23/10
