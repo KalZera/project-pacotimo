@@ -17,6 +17,9 @@ export const Content = styled.div`
   background-color: #4f4f4f;
   color: #fff;
   display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding-bottom: 10px;
   height: 64px;
 `;
 
@@ -27,43 +30,38 @@ export const BoxInfo = styled.div`
 export const LabelCity = styled.div`
   font-size: 15px;
   color: #fff;
-  weight: 700;
+  font-weight: 700;
   height: 18px;
-  width: 74px;
   left: 10px;
   top: 133px;
-  border-radius: nullpx;
 `;
 
 export const LabelPrice = styled.div`
   font-size: 19px;
   color: #fff;
-  weight: 700;
+  font-weight: 700;
   height: 26px;
   width: 108px;
   left: 10px;
   top: 151px;
-  border-radius: nullpx;
 `;
 
 export const LabelDateTitle = styled.div`
   font-size: 11px;
   color: #fff;
-  weight: 400;
+  font-weight: 400;
   height: 15px;
   width: 15px;
   left: 207px;
   top: 142px;
-  border-radius: nullpx;
 `;
 
 export const LabelDate = styled.div`
   font-size: 13px;
   color: #fff;
-  weight: 400;
+  font-weight: 400;
   height: 18px;
   width: 68px;
   left: 242px;
   top: 157px;
-  border-radius: nullpx;
 `;
